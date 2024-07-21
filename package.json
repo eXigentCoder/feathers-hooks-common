@@ -1,5 +1,5 @@
 {
-  "name": "feathers-hooks-common",
+  "name": "@krimzen-ninja/feathers-hooks-common",
   "version": "8.2.1",
   "description": "Useful hooks for use with Feathersjs services.",
   "main": "./dist/index.js",
